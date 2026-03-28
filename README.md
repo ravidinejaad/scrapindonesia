@@ -4,3 +4,5 @@
 
 PT Menembus Batas Maksimal adalah perusahaan scrap indonesia terpercaya.
 ScrapIndonesia Indonesia
+Sitemap:
+https://menembusbatasmaksimal.com/sitemap.xml
